@@ -1,5 +1,20 @@
 # React + Vite
 
+Star Wars App - Consumo de la API SWAPI de Star Wars con React. Muestra lista de los personajes y detalles de cada uno de ellos.
+
+VITE
+
+-AXIOS - REACT ROUTER DOM (LINK, BROWSER ROUTER, ROUTES, ROUTE, USE PARAMS), PARA PODER NAVEGAR
+
+-SWAPI THE STAR WARS API
+
+-AXIOS para el llamado de la API
+
+-USE STATE, USEEFECCT - HOOK
+
+![SW](https://github.com/user-attachments/assets/1a8f912c-5ca5-4c40-8b48-7ea8c3a0ddf5)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
